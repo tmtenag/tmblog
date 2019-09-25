@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Green Cities!"
 date:   2019-09-25 19:47:15 +0300
 categories: jekyll update
 ---
